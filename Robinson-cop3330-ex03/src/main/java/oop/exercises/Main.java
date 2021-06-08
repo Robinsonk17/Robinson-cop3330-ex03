@@ -1,4 +1,8 @@
 package oop.exercises;
+/*
+ * UCF cop3330 Summer 2021 Assignment 1 solutions
+ * Copyright 2021 Keondez Robinson
+ */
 
 import java.util.Scanner;
 public class Main
